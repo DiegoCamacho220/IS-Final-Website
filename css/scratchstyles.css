@@ -1,0 +1,116 @@
+.scratchtitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    text-align: center;
+    color: wheat;
+    text-decoration: underline;
+    margin-bottom: 0%;
+}
+body{
+    background-color: rgb(144, 105, 69);
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    border: 10px solid rgb(55, 25, 25);
+}
+.scratchsubtitle{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(55, 25, 25);
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.sub{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(55, 25, 25);
+    margin-left: 40px;
+    font-size: 35px;
+}
+.subsub{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(55, 25, 25);
+    margin-left: 40px;
+    font-size: 25px;
+}
+.prg{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: wheat;
+    margin-left: 40px;
+    font-size: 20px;
+    margin-top: 0;
+}
+.sts{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    text-align: center;
+    color: rgb(55, 25, 25);
+    text-decoration: underline;
+    margin-bottom: 0%;
+}
+.power{
+    border: solid rgb(55, 25, 25) 7px;
+    padding: 7px;
+    width: 500px;
+    margin-left: 33px;
+    margin-top: 10px;
+}
+.link{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.link a{
+    color: rgb(55, 25, 25);
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+    color: wheat;
+    font-size: 30px;
+}
+.list{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: wheat;
+    font-size: 20px;
+    margin-left: 40px;
+}
+.video{
+    display: flex;
+    justify-content: center; 
+    height: 100vh; 
+}
+.video-iframe {
+    border: solid rgb(55, 25, 25) 7px;
+    padding: 7px;
+    margin-bottom: 0;
+}
+.s{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(55, 25, 25);
+    text-align: center;
+    font-size: 45px; 
+}
+.s2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: wheat;
+    text-align: center;
+    font-size: 45px;
+}
+.indice{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: wheat;
+    font-size: 20px;
+}
+.imagen{
+    border: solid rgb(55, 25, 25) 7px;
+    padding: 7px;
+    width: 300px;
+    margin-left: 33px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.table{
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+}

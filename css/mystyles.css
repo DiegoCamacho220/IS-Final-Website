@@ -1,0 +1,22 @@
+.darkcolor{
+    background-color: rgb(55, 25, 25) !important; 
+}
+.titulo{
+    margin-bottom: 3rem !important;
+    color: rgb(55, 25, 25);
+    
+}
+.subtitulo{
+    margin-bottom: 0 !important;
+    color: rgb(97, 38, 38);
+    
+}
+.subsub{
+    margin-bottom: 1rem !important;
+    color: rgb(191, 171, 136);
+}
+.skills{
+    margin-bottom: 0 !important;
+    color: rgb(97, 38, 38);
+}
+
