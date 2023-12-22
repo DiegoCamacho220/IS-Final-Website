@@ -52,9 +52,8 @@ body{
 .power{
     border: solid rgb(55, 25, 25) 7px;
     padding: 7px;
-    width: 500px;
-    margin-left: 33px;
     margin-top: 10px;
+    width: 500px;
 }
 .link{
     text-align: center;
